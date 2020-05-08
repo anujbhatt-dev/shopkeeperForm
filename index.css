@@ -113,11 +113,6 @@ label{
   color:grey;
 }
 
-.register{
-  position: absolute;
-  bottom: 40px;
-  right: 40px;
-}
 
 .container *{
   margin-bottom:5px;
